@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quadratic Equation</string>
+    <string name="txt_name">Adriano Maciel Sanchez</string>
+    <string name="txt_ra">1110482313018</string>
+    <string name="txt_equation">ax² + bx + c = 0</string>
+    <string name="et_a">a value</string>
+    <string name="et_b">b value</string>
+    <string name="et_c">c value</string>
+    <string name="txt_n">Não existem raízes reais</string>
+    <string name="txt_x">x = </string>
+    <string name="txt_x1">x\' = </string>
+    <string name="txt_x2">x\" = </string>
+    <string name="bt_calc">Calculate</string>
+</resources>
