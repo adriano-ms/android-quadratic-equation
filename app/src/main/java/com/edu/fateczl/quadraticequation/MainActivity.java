@@ -11,6 +11,9 @@ import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
+/**
+*@author Adriano M Sanchez
+ * */
 public class MainActivity extends AppCompatActivity {
 
     private TextView txtName;
